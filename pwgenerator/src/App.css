@@ -1,0 +1,40 @@
+.pw-generator {
+  height: 100vh;
+  font-size: 1.5rem;
+}
+
+.pw-gen-content {
+  text-align: center;
+  background-color: gray;
+  width: 50%;
+  margin: 50px auto 0;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.pw-field {
+  width: 100%;
+  padding: 0 10px 10px;
+}
+
+.pw-show {
+  width: 70%;
+}
+
+.copy-btn {
+  outline: none;
+  background-color: blue;
+  color: white;
+}
+
+.range-sec {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+}
+
+.range {
+  cursor: pointer;
+}
+
