@@ -1,0 +1,47 @@
+.BtnContainer {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.Btns {
+  position: fixed;
+  bottom: 20px;
+  background-color: white;
+  padding: 0.2rem 0.3rem;
+  border-radius: 1.3rem;
+}
+
+.Btns button {
+  border: none;
+  padding: 0.3rem 0.7rem;
+  border-radius: 2rem;
+  margin: 0.3rem;
+}
+
+.Red {
+  background-color: red;
+}
+.Green {
+  background-color: green;
+  color: wheat;
+}
+.Blue {
+  background-color: blue;
+  color: wheat;
+}
+.Olive {
+  background-color: olive;
+}
+.Yellow {
+  background-color: yellow;
+}
+.Pink {
+  background-color: pink;
+}
+.Purple {
+  background-color: purple;
+}
+.Gray {
+  background-color: gray;
+}
