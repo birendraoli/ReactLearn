@@ -47,8 +47,10 @@ const Footer = () => {
             <div className='footer-top'>
                 <div className="footer-top-left">
                     <div className="logo">
+                        <Link to=''>
                         <img src={logo} alt="logo" />
                         <h1>momo</h1>
+                        </Link>
                     </div>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus ipsa quaerat aspernatur, ab possimus perferendis, tempora repudiandae temporibus libero saepe quas, culpa quo voluptate enim.</p>
                 </div>

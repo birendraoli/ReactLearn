@@ -4,8 +4,10 @@ a {
 }
 
 .nav-wrapper {
+  z-index: 1;
   background-color: var(--white-color);
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
+    rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
   margin: auto;
   display: flex;
   width: 90rem;
@@ -17,10 +19,12 @@ a {
   position: sticky;
   top: 0;
   .logo {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
     flex-shrink: 0;
+    a {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
     img {
       width: 2rem;
       height: 2rem;
@@ -45,6 +49,9 @@ a {
       padding: 0.5rem 0.75rem;
       align-items: center;
       gap: 0.125rem;
+    }
+    a:hover {
+      color: var(--dark-green);
     }
   }
   .contact {

@@ -28,13 +28,15 @@ const Navbar = () => {
     return (
         <div className='nav-wrapper'>
             <div className="logo">
+                <Link to=''>
                 <img src={logo} alt="logo" />
                 <h1>momo</h1>
+                </Link>
             </div>
             <div className="link">
                 {
                     links.map(({ name, link }, index) => (
-                        <Link to={link}>{name}</Link>
+                        <Link key={index} to={link}>{name}</Link>
                     ))
                 }
             </div>

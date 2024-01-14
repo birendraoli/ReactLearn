@@ -14,7 +14,7 @@ function App() {
       <Brou>
       <Navbar />
         <Routes>
-          <Route path='/' element={<Home />}/>
+          <Route index element={<Home />}/>
           <Route path='about'element={<About />}/>
           <Route path='*'element={<h1>Page Not Found 😂</h1>}/>
         </Routes>
