@@ -1,10 +1,10 @@
 // import { useState } from 'react'
 import './App.css'
-import Home from '../components/home/Home'
-import Navbar from '../components/navbar/Navbar'
+import Home from './components/home/Home'
+import Navbar from './components/navbar/Navbar'
 import { BrowserRouter as Brou, Routes, Route } from "react-router-dom";
-import Footer from '../components/footer/Footer'
-import About from '../components/About/About'
+import Footer from './components/footer/Footer'
+import About from './components/About/About'
 
 function App() {
   // const [count, setCount] = useState(0)
