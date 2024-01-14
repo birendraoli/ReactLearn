@@ -1,7 +1,18 @@
+:root {
+  --bg-color: #FFF;
+  --main-color: #000000;
+}
+
+.dark {
+  --bg-color: #000000;
+  --main-color: #FFF;
+}
+
 .BtnContainer {
   height: 100vh;
   display: flex;
   justify-content: center;
+  backgroundColor: color 
 }
 
 .Btns {

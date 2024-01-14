@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+    padding: 1rem;
+}
+
+.nav-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100vw;
+    padding: 0 5rem;
+    background-color: var(--bg-color);
+    .link {
+        display: flex;
+        justify-content: space-between;
+        padding: 1rem;
+        background-color: var(--bg-color);
+    
+        a {
+            color: var(--main-color);
+        }
+    }
+    .btn {
+        color: var(--main-color);
+    }
+}

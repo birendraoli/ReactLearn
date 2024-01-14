@@ -1,0 +1,99 @@
+.footer {
+  width: 90rem;
+  margin: auto;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+  display: flex;
+  padding: 3.5rem 9.75rem;
+  flex-direction: column;
+  align-items: center;
+  gap: 2.5rem;
+  align-self: stretch;
+  margin-bottom: 0.5rem;
+  .footer-top {
+    display: flex;
+    gap: 7.5rem;
+    justify-content: space-between;
+    border-bottom: 0.0625rem solid var(--link-color);
+    margin-bottom: 2.5rem;
+    padding-bottom: 2.5rem;
+    .footer-top-left {
+      .logo {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        flex-shrink: 0;
+        img {
+          width: 2rem;
+          height: 2rem;
+        }
+        h1 {
+          font-family: inter;
+          font-size: 1.5625rem;
+          font-style: normal;
+          font-weight: 700;
+          line-height: 120%;
+          color: var(--dark-green);
+        }
+      }
+        p {
+            color: var(--link-color);
+        }
+    }
+    .footer-top-right {
+      display: flex;
+      gap: 3rem;
+      h1 {
+        font-family: inter;
+        font-size: 1.5625rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 120%;
+        color: var(--dark-green);
+      }
+      a {
+        color: var(--link-color);
+      }
+      .footer-nav-links {
+        display: flex;
+        width: 10.5rem;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.75rem;
+        align-self: stretch;
+      }
+      .legals {
+        display: flex;
+        width: 10.5rem;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+      }
+      .footer-socials {
+        display: flex;
+        width: 10.5rem;
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+        .social-links {
+          gap: 1rem;
+          display: flex;
+          padding: 0.5rem;
+          justify-content: center;
+          align-items: center;
+          .social-icon {
+            height: 2rem;
+            width: 2rem;
+            color: var(--white-color);
+            background-color: var(--link-color);
+            padding: 0.5rem;
+            border-radius: 1rem;
+            font-weight: bold;
+          }
+        }
+      }
+    }
+  }
+  .footer-bottom {
+    color: var(--link-color);
+  }
+}
