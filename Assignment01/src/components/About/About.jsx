@@ -24,26 +24,10 @@ const About = () => {
               <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
-            </div>
-            <div className='ellipses'>
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
             </div>
             <div className='ellipses'>
               <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-            </div>
-            <div className='ellipses'>
               <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
@@ -60,8 +44,40 @@ const About = () => {
               <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
             </div>
             <div className='ellipses'>
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+            </div>
+            <div className='ellipses'>
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+            </div>
+            <div className='ellipses'>
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+            </div>
+            <div className='ellipses'>
+              <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
@@ -84,26 +100,10 @@ const About = () => {
               <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
-            </div>
-            <div className='ellipses'>
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
             </div>
             <div className='ellipses'>
               <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-              <img src={ellipse1} alt="Ellipse 1" />
-            </div>
-            <div className='ellipses'>
               <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
@@ -120,8 +120,40 @@ const About = () => {
               <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
             </div>
             <div className='ellipses'>
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+            </div>
+            <div className='ellipses'>
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+            </div>
+            <div className='ellipses'>
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+              <img src={ellipse1} alt="Ellipse 1" />
+            </div>
+            <div className='ellipses'>
+              <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />
               <img src={ellipse1} alt="Ellipse 1" />

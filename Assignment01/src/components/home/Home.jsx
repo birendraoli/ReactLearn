@@ -9,8 +9,8 @@ import ellipse2 from './ellipse2.jpg'
 const Home = () => {
   return (
     <>
-      <div className='big-ellipse'></div>
       <div className='home-wrapper'>
+        <div className='big-ellipse'></div>
         <div className="home-first">
           <div className='home-first-left'>
             <div className="home-first-content">
@@ -161,12 +161,10 @@ const Home = () => {
               <span className='orange-text'>Love Us</span>
             </h1>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, nulla voluptate rerum animi iure aliquam, explicabo maiores aut laboriosam est recusandae laudantium odit quibusdam iusto quis nobis in sapiente pariatur, eligendi dolor sit nisi! Cumque ratione unde aut sapiente, nam totam cum maxime repellendus culpa impedit sed quasi facilis aspernatur.</p>
-            <div className='btn'>
-              <button>
-                <span className='btn-text'>Explore Food Menu</span>
-                <span className='btn-icon'><FaArrowRight /></span>
-              </button>
-            </div>
+            <button>
+              <span className='btn-text'>Explore Food Menu</span>
+              <span className='btn-icon'><FaArrowRight /></span>
+            </button>
           </div>
         </div>
       </div>
